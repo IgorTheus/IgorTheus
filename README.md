@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Igor Matheus 
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Back-End`**
 
 Me chamo Igor Matheus, tenho 18 anos, sou técnico em macatrõnica e atualmente estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas no SENAI "Roberto Mange". Sou muito interessado em construir projetos que envolvam automação, eletroeletrônica e programação, utilizando tecnologias como Python, C++ e Arduino/ESP.
 
