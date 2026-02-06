@@ -2,7 +2,7 @@
 
 **`Analista de Dados`**
 
-Formado em mecatronica e atualmente cursandoAnálise e Desenvolvimento de Sistemas no SENAI "Roberto Mange". Interessado em construir projetos que envolvam automação, eletroeletrônica e programação.
+Formado em Mecatrônica e atualmente cursando Análise e Desenvolvimento de Sistemas no SENAI "Roberto Mange". Interessado em construir projetos que envolvam automação, eletroeletrônica e programação.
 
 ---
 
