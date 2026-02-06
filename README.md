@@ -2,7 +2,7 @@
 
 **`Analista de Dados`**
 
-Me chamo Igor Matheus, tenho 19 anos, sou formado em técnico em mecatronica e atualmente estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas no SENAI "Roberto Mange". Sou muito interessado em construir projetos que envolvam automação, eletroeletrônica e programação.
+Formado em mecatronica e atualmente cursandoAnálise e Desenvolvimento de Sistemas no SENAI "Roberto Mange". Interessado em construir projetos que envolvam automação, eletroeletrônica e programação.
 
 ---
 
