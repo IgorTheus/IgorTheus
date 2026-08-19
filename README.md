@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Igor Matheus 
+# Igor Matheus 
 
 **`Analista de Dados`**
 
