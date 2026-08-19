@@ -2,11 +2,11 @@
 
 **`Analista de Dados`**
 
-Formado em Mecatrônica e atualmente cursando Análise e Desenvolvimento de Sistemas no SENAI "Roberto Mange". Atualmente na area de dados voltado para analise de perfomance de operação.
+Formado em Mecatrônica e atualmente cursando Análise e Desenvolvimento de Sistemas no SENAI "Roberto Mange". Atualmente na área de dados voltado para análise de Performance Operacional.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
